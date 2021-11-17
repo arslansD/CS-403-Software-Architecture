@@ -1,4 +1,4 @@
-# Full Screen Application for Library Management System
+# Full Screen Application for Library Management System regarding Software Architecture
 ## Description:
 This assignment is based on developing a LIS (Library Management System) using Java
 Programming Language. For that I used GUI (Graphical User Interface) in this development so
